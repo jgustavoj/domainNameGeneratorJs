@@ -29,6 +29,7 @@ for (let i = 0; i < 5; i++){
     domain = domain.concat(space);
 }
     console.log(domain);
+
     
 
 //Goal: 
